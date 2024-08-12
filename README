@@ -1,1 +1,14 @@
 Halley5 LVGL Files, 8/11/2024
+
+On LVGL setting page,
+1. Save as:  workspace/lvgl/EV
+2. Export as:  workspace/lvgl/EVSRC
+*
+3. Board group: Desktop
+4. Board:  Eclipsee with SDL for development
+5. Version:  v1.0.2
+6. LVGL:  8.3.11
+*
+On LVGL main page,
+1. Export->Export UI files
+2. Zip both the EV and EVSRC directories
